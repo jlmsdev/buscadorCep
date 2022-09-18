@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Projeto Buscar de Cep
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Usando Api viaCep para fazer as requisicoes passadas no Input.
+
+Link do Projeto em Producao [Buscador de Cep App React](https://buscadorcepjlms.netlify.app/).
 
 ## Available Scripts
 
