@@ -1,4 +1,4 @@
-# Projeto Buscar de Cep
+# Projeto Buscador de Cep
 
 Usando Api viaCep para fazer as requisicoes passadas no Input.
 
