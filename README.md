@@ -1,4 +1,4 @@
-# Projeto Buscador de Cep
+# Projeto Buscador de Cep em ReactJs
 
 Usando Api viaCep para fazer as requisicoes passadas no Input.
 
